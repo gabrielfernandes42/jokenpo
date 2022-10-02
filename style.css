@@ -1,0 +1,38 @@
+body{
+    background-color: #403e3e;
+}
+
+.container {
+    border: 2px solid black ;
+    max-width: 600px;
+    text-align: center;
+    margin: 3rem auto;
+    padding: 2rem 0 2rem 0;
+    border-radius: 20px;
+}
+
+.container > p {
+    font-size: 2rem;
+}
+
+.container > p{
+    color: aqua;
+}
+
+span{
+    color: red;
+}
+
+#result {
+    color: black;
+}
+
+
+button{
+    text-align: center  ;
+    font-size: 1.5rem;
+    padding: 0.5rem;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 10rem;
+}
