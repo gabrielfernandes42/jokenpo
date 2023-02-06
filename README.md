@@ -4,7 +4,7 @@ Acesse o projeto: https://lovely-lokum-2aea62.netlify.app/
 
 ## Sobre o projeto.
 
-Joken por, é um jogo simples de Pedra, Papel e Tesoura. 
+Jokenpo, é um jogo simples de Pedra, Papel e Tesoura. 
 
 Esse projeto foi um desafio de um curso de Javascript do Youtube. 
 
